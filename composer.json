@@ -1,6 +1,6 @@
 {
     "name": "voodoo773/goalio-forgotpassword",
-    "description": "Adding Forgot Password functionalitiy to ZfcUser",
+    "description": "Adding Forgot Password functionalitiy to ZfcUser test",
     "type": "library",
     "license": "BSD-3-Clause",
     "keywords": [
